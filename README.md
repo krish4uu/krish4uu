@@ -1,14 +1,14 @@
 
-<h1>Hey, nice to see you.</h1>
+<h1 align="center">Hey, nice to see you.</h1>
 
 
-<p align="left">
 
+<div align="center">
 <a href="https://www.linkedin.com/in/prajapatikashyap/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/356/356045.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/krish_4u_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1383/1383263.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/playlist/4Z9EZRAYr1N0vf6fWKV1Uy?si=8f714bad3e4844c5" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/725/725281.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/playlist/4Z9EZRAYr1N0vf6fWKV1Uy?si=8f714bad3e4844c5" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/725/725281.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
-</p>
 
 <br>
 
