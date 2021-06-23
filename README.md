@@ -21,7 +21,7 @@ Hi, I'm [Kashyap Prajapati](http://www.kashyapprajapati.com/), pursuing master's
 <div >
 <a align="left">
   <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=stars,issues,contribs&count_private=true&theme=tokyonight&showicons=true" />
-</a> &nbsp; &nbsp; &nbsp; &nbsp;
+</a> &nbsp; 
  <a alighn="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&langs_count=5&theme=tokyonight" />
 </a>
