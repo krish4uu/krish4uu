@@ -29,7 +29,7 @@ Hi, I'm [Kashyap Prajapati](http://www.kashyapprajapati.com/), pursuing master's
  <br> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish4uu" alt="Kashyap" /> </p>
  <p align="center"><img align="center" height="200" alt="GIF" src="https://media.giphy.com/media/S6qkS0ETvel6EZat45/giphy.gif" /></p>
- <p align="center"> Thank you for vising the profile, means a lot <img src="https://img-premium.flaticon.com/png/512/2632/premium/2632186.png?token=exp=1624481468~hmac=6fcc0b72ab4aba1e10eceb89525a29c9" width="20"/> </p>
+ <p align="center"> Thank you for vising the profile, means a lot 🖤 </p>
  
 
 
