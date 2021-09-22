@@ -15,7 +15,7 @@
 Hi, I'm [Kashyap Prajapati](http://www.kashyapprajapati.com/), pursuing master's at the University of Windsor, ON, Canada and a web developer 👨🏻‍💻. I am Looking to collaborate on freelence work or any other opportunities which can help me learn more.
 <br>
  - 📤 How to reach me: [prajapatikashyap97@gmail.com](mailto:prajapatikashyap97@gmail.com)
- - 🖥️ My website: [https://www.kashyapprajapati.com/](https://www.kashyapprajapati.com/)
+ - 🖥️ My website: [kashyapprajapati.com/](https://www.kashyapprajapati.com/)
  
  <br>
 <div >
