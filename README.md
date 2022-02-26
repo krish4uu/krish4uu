@@ -4,18 +4,18 @@
 
 
 <div align="left">
-<a href="https://www.linkedin.com/in/prajapatikashyap/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/356/356045.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/krish_4u_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1383/1383263.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prajapatikashyap" target="_blank"><img height="30" src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/krish_4u_" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1383/1383263.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/34aeAs5mC7btTSvkTm3mkY?si=d1d5614b8bc444fc" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/725/725281.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
 <br>
 
-Hi, I'm [Kashyap Prajapati](http://www.kashyapprajapati.com/), pursuing master's at the University of Windsor, ON, Canada and a web developer 👨🏻‍💻. I am Looking to collaborate on freelence work or any other opportunities which can help me learn more.
+Hi, I'm [Kashyap Prajapati](http://www.kashyapprajapati.com/), recently completed master's at the University of Windsor, ON, Canada and I am also a web developer 👨🏻‍💻. I am Looking for full time Front-end or Full-stack developer opportunities in Canada. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
 <br>
- - 📤 How to reach me: [prajapatikashyap97@gmail.com](mailto:prajapatikashyap97@gmail.com)
- - 🖥️ My website: [kashyapprajapati.com](https://www.kashyapprajapati.com/)
+ - 📤 &nbsp; Wanna a talk: [prajapatikashyap97@gmail.com](mailto:prajapatikashyap97@gmail.com)
+ - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
  
  <br>
 <div >
