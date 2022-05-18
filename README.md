@@ -18,14 +18,14 @@ Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side, recently co
  - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
  
  <br>
-<div >
+<!-- <div >
 <a align="left">
   <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=stars,issues,contribs&count_private=true&theme=tokyonight&showicons=true" width="450" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp; 
  <a alighn="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&langs_count=5&theme=tokyonight" width="340"/>
 </a>
-</div>
+</div> -->
  <br> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish4uu" alt="Kashyap" /> </p>
  <p align="center"><img align="center" height="200" alt="GIF" src="https://media.giphy.com/media/S6qkS0ETvel6EZat45/giphy.gif" /></p>
