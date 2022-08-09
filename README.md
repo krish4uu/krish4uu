@@ -5,8 +5,6 @@
 
 <div align="left">
 <a href="https://www.linkedin.com/in/prajapatikashyap" target="_blank"><img height="30" src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.instagram.com/krish_4u_" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/1383/1383263.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/playlist/34aeAs5mC7btTSvkTm3mkY?si=d1d5614b8bc444fc" target="_blank"><img height="30" src="https://image.flaticon.com/icons/png/512/725/725281.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
