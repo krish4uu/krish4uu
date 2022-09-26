@@ -26,10 +26,10 @@ Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side, recently co
 </p>
 <div >
 <a align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="380" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp; 
  <a alighn="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="320"/>
 </a>
 </div> 
  <br> 
