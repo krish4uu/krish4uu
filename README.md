@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side, recently completed master's at the University of Windsor, ON, Canada and a web developer 👨🏻‍💻. I am Looking for full time Front-end or Full-stack developer opportunities in Canada. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
+Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side, recently completed master's at the University of Windsor, ON, Canada. I am Full-stack engineer at [Elastic Path](https://www.elasticpath.com/?utm_source=google&utm_medium=cpc&utm_campaign=RL_Elastic_Path_Search_Brand&utm_term=elastic%20path%20software&gclid=CjwKCAjwm8WZBhBUEiwA178UnHwWiwkDKgq1ufIRCwEkl7qv6oeAHrQTAqspuWELk-a1MGQx63duERoCGBIQAvD_BwE)👨🏻‍💻. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
 <br>
  - 📤 &nbsp; Wanna a talk: [prajapatikashyap97@gmail.com](mailto:prajapatikashyap97@gmail.com)
  - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
