@@ -40,7 +40,7 @@ fields_of_interests:
     "UI/UX"
   ]
   
-other_skills: 
+other_interests: 
   [
     "Guitar Player 🎸",
     "Sometimes Singer 🎶",
@@ -65,13 +65,15 @@ other_skills:
 </p>
 
 ## 📈 GitHub Stats 
+
 <div >
-<a align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="380" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp; 
- <a alighn="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="320"/>
-</a>
+<p align="center">
+ <img width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png">
+ <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="360" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="309"/>
+ <img width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png"> 
+</p>
+
 <!--- activity graph
 <p align="center">
  <br>
