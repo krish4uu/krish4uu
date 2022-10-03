@@ -70,9 +70,7 @@ other_interests:
  <img align="right" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png"> 
 <img align="left" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png">
 <p align="center">
-
  <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="350rem" margin="2rem"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="299rem" margin="2rem"/>
 </p>
 
 <!--- activity graph
@@ -83,6 +81,15 @@ other_interests:
  
 </p>
 --->
+
+</div> 
+<div >
+ <img align="right" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png"> 
+<img align="left" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="299rem" margin="2rem"/>
+</p>
+
 
 </div> 
  <br> 
