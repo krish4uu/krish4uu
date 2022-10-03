@@ -71,8 +71,8 @@ other_interests:
 <img align="left" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png">
 <p align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="360" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="309"/>
+ <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="350rem" margin="2rem"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="299rem" margin="2rem"/>
 </p>
 
 <!--- activity graph
@@ -87,7 +87,7 @@ other_interests:
 </div> 
  <br> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish4uu" alt="Kashyap" /> </p>
- <p align="center"><img align="center" height="200" alt="GIF" src="https://media.giphy.com/media/S6qkS0ETvel6EZat45/giphy.gif" /></p>
+ <p align="center"><img align="center" height="190rem" alt="GIF" src="https://media.giphy.com/media/S6qkS0ETvel6EZat45/giphy.gif" /></p>
  <p align="center"> Thank you for vising the profile, means a lot 🖤 </p>
 
 
