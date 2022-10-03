@@ -15,7 +15,7 @@ Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side. I am a Full
 </h1>
 
 <p align="center">
-<a href="https://https://www.linkedin.com/in/prajapatikashyap/">
+<a href="https://www.linkedin.com/in/prajapatikashyap">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 </p>
