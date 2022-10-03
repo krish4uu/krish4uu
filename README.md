@@ -1,14 +1,53 @@
-
-<h1 align="left">Hey, nice to see you.</h1>
-
+![headerImage](https://user-images.githubusercontent.com/66221402/193639152-54dcee90-407c-4deb-979d-954b559887bf.jpeg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
+</p>
+<h1 align="left"></h1>
 <br>
 
-Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side, recently completed master's at the University of Windsor, ON, Canada. I am a Full-stack engineer at [Elastic Path](https://www.elasticpath.com/?utm_source=google&utm_medium=cpc&utm_campaign=RL_Elastic_Path_Search_Brand&utm_term=elastic%20path%20software&gclid=CjwKCAjwm8WZBhBUEiwA178UnHwWiwkDKgq1ufIRCwEkl7qv6oeAHrQTAqspuWELk-a1MGQx63duERoCGBIQAvD_BwE)👨🏻‍💻. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
+Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side. I am a Full Stack Engineer at [Elastic Path](https://www.elasticpath.com/?utm_source=google&utm_medium=cpc&utm_campaign=RL_Elastic_Path_Search_Brand&utm_term=elastic%20path%20software&gclid=CjwKCAjwm8WZBhBUEiwA178UnHwWiwkDKgq1ufIRCwEkl7qv6oeAHrQTAqspuWELk-a1MGQx63duERoCGBIQAvD_BwE)👨🏻‍💻. I love to solve real world problems, and seeing millions of peoples are using my features. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
 <br>
- - 📤 &nbsp; Wanna a talk: [prajapatikashyap97@gmail.com](mailto:prajapatikashyap97@gmail.com)
  - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
- - 👨🏻‍💻 &nbsp;  Linkedin: [Kashyap Prajapati](https://www.linkedin.com/in/prajapatikashyap) 
  <br>
+ 
+ <h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://https://www.linkedin.com/in/prajapatikashyap/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Kashyap Prajapati
+located_in: Ontario, Canada
+current_job: Full Stack Engineer
+education:
+  [
+    "Master's in Computer Engineering",
+    "Bachelor's in Computer Engineering",
+  ]
+company: Elastic Path 
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Software Development",
+    "UI/UX"
+  ]
+  
+other_skills: 
+  [
+    "Guitar Player 🎸",
+    "Sometimes Singer 🎶",
+    "Movie Geek"
+  ]
+```
+  
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/javascript-1.svg" alt="javascript" width="40" height="40"/> </a>
@@ -24,13 +63,24 @@ Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side, recently co
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/postman.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+
+## 📈 GitHub Stats 
 <div >
-<a align="left">
+<a align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=krish4uu&hide=issues&count_private=true&theme=react&showicons=true" width="380" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp; 
- <a alighn="right">
+ <a alighn="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4uu&layout=compact&theme=react" width="320"/>
 </a>
+<!--- activity graph
+<p align="center">
+ <br>
+ <br>
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=krish4uu&theme=redical">
+ 
+</p>
+--->
+
 </div> 
  <br> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish4uu" alt="Kashyap" /> </p>
