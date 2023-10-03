@@ -103,9 +103,9 @@ other_interests:
 
 </div> 
  <br> 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish4uu" alt="Kashyap" /> </p>
+<!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish4uu" alt="Kashyap" /> </p> -->
 <!--  <p align="center"><img align="center" height="190rem" alt="GIF" src="https://media.giphy.com/media/S6qkS0ETvel6EZat45/giphy.gif" /></p> -->
- <p align="center"> Thank you for vising the profile, means a lot 🖤 </p>
+ <p align="center"> Thank you for visiting the profile, means a lot 🖤 </p>
 
 
 <!---
