@@ -5,7 +5,7 @@
 <h1 align="left"></h1>
 <br>
 
-Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side. I am a Full Stack Engineer at [Elastic Path](https://www.elasticpath.com/?utm_source=google&utm_medium=cpc&utm_campaign=RL_Elastic_Path_Search_Brand&utm_term=elastic%20path%20software&gclid=CjwKCAjwm8WZBhBUEiwA178UnHwWiwkDKgq1ufIRCwEkl7qv6oeAHrQTAqspuWELk-a1MGQx63duERoCGBIQAvD_BwE)👨🏻‍💻. I love to solve real world problems, and seeing millions of peoples are using my features. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
+Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side. I am a Full Stack Engineer at [Elastic Path](https://www.elasticpath.com/?utm_source=google&utm_medium=cpc&utm_campaign=RL_Elastic_Path_Search_Brand&utm_term=elastic%20path%20software&gclid=CjwKCAjwm8WZBhBUEiwA178UnHwWiwkDKgq1ufIRCwEkl7qv6oeAHrQTAqspuWELk-a1MGQx63duERoCGBIQAvD_BwE)👨🏻‍💻. I love to solve real-world problems, and seeing millions of peoples are using my features. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
 <br>
  - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
  <br>
@@ -75,7 +75,7 @@ other_interests:
 
 
 ## 📈 GitHub Stats 
-
+<!---
 <div >
  <img align="right" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png"> 
 <img align="left" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png">
@@ -90,9 +90,10 @@ other_interests:
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=krish4uu&theme=redical">
  
 </p>
---->
+
 
 </div> 
+--->
 <div >
  <img align="right" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png"> 
 <img align="left" width="120px"src="https://user-images.githubusercontent.com/66221402/193641170-7c8bbc4f-b6ba-4ece-978d-de2b1188b228.png">
