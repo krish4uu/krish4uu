@@ -5,11 +5,16 @@
 <h1 align="left"></h1>
 <br>
 
-Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side. I am a Full Stack Engineer at [Elastic Path](https://www.elasticpath.com/?utm_source=google&utm_medium=cpc&utm_campaign=RL_Elastic_Path_Search_Brand&utm_term=elastic%20path%20software&gclid=CjwKCAjwm8WZBhBUEiwA178UnHwWiwkDKgq1ufIRCwEkl7qv6oeAHrQTAqspuWELk-a1MGQx63duERoCGBIQAvD_BwE)👨🏻‍💻. I love to solve real-world problems, and seeing millions of peoples are using my features. If you have any exciting projects and need extra hands, happy to collaborate 🤝. 
-<br>
+Hi, My name is Kashyap Prajapati. I am a Master's graduate and an experienced Full Stack Engineer👨🏻‍💻. I love to solve real-world problems and implement new open-source features. If you have any exciting projects and need extra hands, happy to collaborate 🤝.
+
+Currently learning AI, Machine Learning and finding real-life solutions using the tech. 
+
+ - I'm certified in Microsoft, verify here: [Microsoft Azure AI](https://www.credly.com/badges/0bc02264-e89d-4381-90a9-efea8c3982b9)
+ - Completed IBM AI course, verify here: [AI fundamentals](https://www.credly.com/badges/c83602d5-aa1d-422c-bd4f-604ac3d37f31)
  - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
- <br>
+
  
+
  <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
@@ -26,6 +31,7 @@ Hi, [Kashyap Prajapati](http://www.kashyapprajapati.com/) this side. I am a Full
 name: Kashyap Prajapati
 located_in: Ontario, Canada
 current_job: Full Stack Engineer
+experience: 3+ years
 education:
   [
     "Master's in Computer Engineering",
@@ -35,8 +41,10 @@ company: Elastic Path
 
 fields_of_interests:
   [
-    "Web Development",
     "Software Development",
+    "Full Stack Development",
+    "Front-end Development",
+    "AI / Machine Learning Engineering",
     "UI/UX"
   ]
   
