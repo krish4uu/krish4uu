@@ -5,7 +5,7 @@
 <h1 align="left"></h1>
 <br>
 
-Hi, My name is Kashyap Prajapati. I am a Master's graduate and an experienced Full Stack Engineer👨🏻‍💻. I love to solve real-world problems and implement new open-source features. If you have any exciting projects and need extra hands, happy to collaborate 🤝.
+Hi, My name is Kashyap Prajapati. I am a Master's graduate and an experienced Full Stack Engineer👨🏻‍💻. I love to solve real-world problems and implement new open-source features. If you have any exciting projects and need extra hands, happy to collaborate 🤝
 
 Currently learning AI, Machine Learning and finding real-life solutions using the tech. 
 
@@ -31,23 +31,20 @@ Currently learning AI, Machine Learning and finding real-life solutions using th
 name: Kashyap Prajapati
 located_in: Ontario, Canada
 current_job: Full Stack Engineer
-experience: 3+ years
+experience: 4+ years
 education:
   [
     "Master's in Computer Engineering",
     "Bachelor's in Computer Engineering",
   ]
-company: Elastic Path 
-
 fields_of_interests:
   [
     "Software Development",
     "Full Stack Development",
     "Front-end Development",
-    "AI / Machine Learning Engineering",
+    "AI / Machine Learning",
     "UI/UX"
   ]
-  
 other_interests: 
   [
     "Guitar Player 🎸",
