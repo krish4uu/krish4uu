@@ -11,8 +11,6 @@ Currently learning AI, Machine Learning and finding real-life solutions using th
 
  - I'm certified in Microsoft, verify here: [Microsoft Azure AI](https://www.credly.com/badges/0bc02264-e89d-4381-90a9-efea8c3982b9)
  - Completed IBM AI course, verify here: [AI fundamentals](https://www.credly.com/badges/c83602d5-aa1d-422c-bd4f-604ac3d37f31)
- - 🖥️ &nbsp;  Portfolio: [kashyapprajapati.com](https://www.kashyapprajapati.com)
-
  
 
  <h1 align="center">
